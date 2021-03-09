@@ -1,0 +1,19 @@
+{
+  "name": "dip",
+  "version": "1.0.0",
+  "description": "Backend of Dip",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "14.15.0"
+  },
+  "author": "Kaushal Zod",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
